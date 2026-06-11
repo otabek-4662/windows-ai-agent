@@ -1,0 +1,17 @@
+# Windows 11 AI Desktop Agent - Kerakli kutubxonalar
+# ==================================================
+
+# Ovoz boshqarish (Volume Control)
+pycaw>=20230407
+
+# Ekran yorqinligi (Brightness Control)
+screen-brightness-control>=0.23.0
+
+# Skrinshot olish (Screenshots)
+Pillow>=10.0.0
+
+# Tizim ma'lumotlari (System Info - batareya, CPU, RAM)
+psutil>=5.9.0
+
+# Comtypes (pycaw uchun kerak - Windows COM interface)
+comtypes>=1.2.0
